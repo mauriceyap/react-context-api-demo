@@ -1,0 +1,1 @@
+export default ['AAPL', 'AMZN', 'GOOGL', 'MSFT'];
