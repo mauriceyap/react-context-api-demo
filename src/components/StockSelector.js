@@ -8,7 +8,7 @@ export default class StockSelector extends Component {
     constructor() {
         super();
         this.state = {
-            selectedSecurity: null,
+            selectedSecurity: 'AAPL',
         };
         this.setSelectedSecurity = this.setSelectedSecurity.bind(this);
     }
